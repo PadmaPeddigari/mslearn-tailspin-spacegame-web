@@ -51,7 +51,7 @@ stages:
       displayName: Sonar Analysis
       inputs:
         SonarCloud: 'Sonarcloud'
-        organization: 'PadmaPeddigari'
+        organization: 'devopsorg48'
         projectKey: 'spacewebgamer'
         projectName: 'spacewebgamer'
         projectVersion: $(Build.BuildNumber)
