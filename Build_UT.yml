@@ -42,7 +42,7 @@ steps:
   displayName: Sonar Analysis
   inputs:
       SonarCloud: 'Sonarcloud'
-      organization: 'devopsorg48'
+      organization: 'PadmaPeddigari'
       projectKey: 'spacewebgamer'
       projectName: 'spacewebgamer'
       projectVersion: $(Build.BuildNumber)
